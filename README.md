@@ -17,3 +17,4 @@
 
 <p align="center"><img width="80%" src="https://github-readme-stats.vercel.app/api?username=rosterloh&show_icons=true&theme=dark" /></p>
 <p align="center"><img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosterloh&layout=compact&theme=dark" /></p>
+<p align="center"><img width="80%" src="https://skillicons.dev/icons?i=bash,c,cpp,cmake,docker,git,linux,opencv,py,qt,raspberrypi,rust" /></p>
