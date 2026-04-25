@@ -1,3 +1,28 @@
+<div align="center">
+
+# Richard Osterloh
+
+### The Hardware Whisperer
+*Turning caffeine into compiled code and blinking LEDs.*
+
+### My Toolkit
+
+![C/C++](https://img.shields.io/badge/C%2FC++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Zephyr](https://img.shields.io/badge/Zephyr_RTOS-782873?style=for-the-badge&logo=zephyrproject&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+
+### The Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rosterloh&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosterloh&layout=compact&theme=tokyonight&hide_border=true&hide=assembly,html,jupyter%20notebook&exclude_repo=hal_ti,linux,zephyr,Micro-XRCE-DDS-Client&v=2" width="48%" />
+</div>
+
+</br>
+
 <p align="center">
   <a href="https://github.com/rosterloh?tab=followers">
     <img src="https://img.shields.io/github/followers/rosterloh?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
@@ -13,8 +38,4 @@
   </a>
 </p>
 
-</br>
-
-<p align="center"><img width="80%" src="https://github-readme-stats.vercel.app/api?username=rosterloh&show_icons=true&theme=dark" /></p>
-<p align="center"><img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosterloh&layout=compact&theme=dark" /></p>
-<p align="center"><img width="80%" src="https://skillicons.dev/icons?i=bash,c,cpp,cmake,docker,git,linux,opencv,py,qt,raspberrypi,rust" /></p>
+</div>
