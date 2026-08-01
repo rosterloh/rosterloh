@@ -14,6 +14,14 @@
 ![Zephyr](https://img.shields.io/badge/Zephyr_RTOS-782873?style=for-the-badge&logo=zephyrproject&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 
+### Projects & Documentation
+
+| Project | What it does | Documentation |
+| --- | --- | --- |
+| [netprov](https://github.com/rosterloh/netprov) | Provisions network settings on headless Linux devices over BLE. | [Read the book](https://rosterloh.github.io/netprov/) |
+| [raptor](https://github.com/rosterloh/raptor) | Provides a hawkBit-compatible OTA update server in Rust. | [Read the book](https://rosterloh.github.io/raptor/) |
+| [Talos](https://github.com/rosterloh/talos) | Observes and interacts with ROS 2 systems from the terminal. | [Read the book](https://rosterloh.github.io/talos/) |
+
 ### The Metrics
 
 <div align="center">
